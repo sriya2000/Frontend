@@ -1,0 +1,72 @@
+.navbar{
+    background-color:white;
+    box-shadow: 0 30px 39px 0 rgb(0 0 0 / 16%), rgb(0 0 0 / 12%);
+    
+}
+.navbar-brand{
+    font-style: italic;
+    font-weight: 1000;
+    font-size: 200px;
+    /* font-size: 3.25rem; */
+}
+.navbar-brand-1{
+    font-style: italic;
+    font-weight: 1000;
+    
+    font-size: 70px;
+    color: brown;
+}
+.nav-link{
+    font-size: medium;
+    font-weight: 700;
+    font-style:normal;
+    margin-left: 100px;
+    
+}
+.nav-link active{
+    margin-left: 50px;
+
+}
+.nav-link dropdown-toggle{
+    margin-left: 150px;
+
+}
+.dropdown-menu{
+    font-size: medium;
+    font-weight: 700;
+    font-style:normal;
+    padding-right: 6.5rem
+}
+ /* .logos{
+    margin-right: 30rem;
+} */
+/* .logoso{
+    margin-left: 25rem;
+   
+}  */
+
+.navlink{
+    color: brown;
+    background-color: wheat;
+    margin-left: 100px;
+}
+.navlink-1{
+    margin-right: 2rem;
+    font-weight: 900;
+    margin-left: 4rem;
+    
+    
+}
+.navlink-2{
+    margin-right: 1rem;
+    font-weight: 900;
+    margin-left: 1rem;
+    margin-top: 8rem;
+
+}
+.search{
+    margin-right: 15rem;
+    margin-left: 15rem;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}
